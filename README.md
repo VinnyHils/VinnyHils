@@ -17,30 +17,32 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL_🇧🇷-000000?style=for-the-badge&labelColor=000000&color=00F0FF" />
+<img src="https://img.shields.io/badge/STATUS-READY_PLAYER_1-000000?style=for-the-badge&labelColor=000000&color=FF0055" />
 <img src="https://komarev.com/ghpvc/?username=VinnyHils&color=00f0ff&style=for-the-badge&label=EXP+POINTS" alt="EXP Counter" />
 
 </div>
 
 ---
 
-### 🕹️ [ CHARACTER STATS ]
+### 🕹️ [ CHARACTER SHEET & STATS ]
 
 ```yaml
-Character: Vinny Hilsdorf
-Class    : Software Engineer
-Guild    : Universidade São Francisco (USF)
-Server   : Brasil [SA]
-Rank     : Undergrad Developer
+Character : Vinny Hilsdorf
+Class     : Software Engineering Student
+Guild     : Universidade São Francisco (USF)
+Region    : Brasil [Server: SA]
+Focus     : Backend, Systems & Fullstack Architecture
 
-Attributes:
+Skill_Attributes:
   Problem Solving : [████████████████░░░░] 80%
   Code Discipline : [██████████████████░░] 90%
   Curiosity       : [████████████████████] 100%
   Caffeine Level  : [████████████████████] MAX
 
 Inventory:
-  Main Weapons    : C++, Python, JavaScript, TypeScript
-  Tools & Buffs   : Git, Linux, VS Code, SQL
+  Core Languages  : C++, C, Python, JavaScript, TypeScript
+  Tech Stack      : Git, Linux, VS Code, PostgreSQL, Node.js
 ```
 
 ---
@@ -50,8 +52,19 @@ Inventory:
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,git,github,linux,vscode,postgres&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,postgres,git,github,linux,vscode&perline=10&theme=dark" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </div>
 
@@ -61,34 +74,15 @@ Inventory:
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VinnyHils&show_icons=true&theme=synthwave&hide_border=false&border_radius=10&border_color=00F0FF" />
-    </td>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyHils&layout=compact&langs_count=6&theme=synthwave&hide_border=false&border_radius=10&border_color=00F0FF" />
-    </td>
-  </tr>
-</table>
+| ⚙️ Hardware / OS | 🚀 Ambiente de Dev | 🎯 Meta Atual |
+| :---: | :---: | :---: |
+| **Linux & Mac** | **VS Code & Terminal** | **Engenharia de Software** |
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=VinnyHils&theme=synthwave&hide_border=false&border_radius=10&border=00F0FF" width="95%" />
-
-</div>
-
----
-
-### 👾 [ ARCADE SNAKE LOG ]
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinnyHils/VinnyHils/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinnyHils/VinnyHils/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/VinnyHils/VinnyHils/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</picture>
+<a href="https://github.com/VinnyHils">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VinnyHils&show_icons=true&theme=synthwave&hide_border=false&border_radius=10&border_color=00F0FF" alt="GitHub Stats" />
+</a>
 
 </div>
 
@@ -107,5 +101,11 @@ Inventory:
 <a href="https://linkedin.com" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+<br/><br/>
+
+```text
+[ SYSTEM LOG: END OF TRANSMISSION // ALL MODULES OPERATIONAL ]
+```
 
 </div>
