@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="84" viewBox="0 0 320 84"><defs>
+<linearGradient id="fire" x1="0" x2="1"><stop offset="0" stop-color="#FF2A00"/><stop offset=".55" stop-color="#FF6A00"/><stop offset="1" stop-color="#FFB800"/></linearGradient>
+<linearGradient id="fireV" x1="0" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#FF2A00" stop-opacity=".95"/><stop offset=".6" stop-color="#FF6A00" stop-opacity=".45"/><stop offset="1" stop-color="#FFB800" stop-opacity="0"/></linearGradient>
+<linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0" spreadMethod="reflect">
+<stop offset="0" stop-color="#FF2A00"/><stop offset=".5" stop-color="#FF7A00"/><stop offset="1" stop-color="#FFC400"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1000 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="glow" cx=".5" cy="1" r=".75"><stop offset="0" stop-color="#FF3D00" stop-opacity=".45"/><stop offset="1" stop-color="#FF3D00" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+</defs><g transform="translate(0,0)"><clipPath id="r"><rect x="6" y="4" width="308" height="76" rx="38"/></clipPath>
+<rect x="6" y="4" width="308" height="76" rx="38" fill="#0F0F10" stroke="#2f2f33" stroke-width="2"/>
+<g clip-path="url(#r)"><rect x="6" y="4" width="308" height="76" fill="url(#glow)" opacity=".35"/></g>
+<circle cx="52" cy="42" r="24" fill="#FFB800"/>
+<g transform="translate(40,30) scale(1)"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" fill="#0A0A0A"/></g>
+<text x="92" y="38" font-family="'SF Mono',Menlo,Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="15" font-weight="700" letter-spacing="3" fill="#F2F2F2">LINKEDIN</text>
+<text x="92" y="58" font-family="'SF Pro Display','Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif" font-size="12" fill="#8c8c92">vamos nos conectar</text></g></svg>
